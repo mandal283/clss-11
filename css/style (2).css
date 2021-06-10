@@ -1,0 +1,168 @@
+@media (min-width:320px) and (max-width:480px) {
+	.navbar .navbar-toggler{
+		background: white;
+	}
+.features-inner{
+	padding-top: 30px;
+	}
+	.banner-inner{
+		padding: 0px;
+		margin: 0px;
+		text-align: center;
+	}
+	.banner-inner h6{
+		text-align: center;
+		font-size: 14px;
+		padding: 0px;
+		margin-top: 30px;
+	}
+	.banner-inner h1{
+		padding: 0px;
+		margin-top: 30px;
+	}
+		.banner-inner p{
+		text-align: center;
+		font-size: 14px;
+		padding: 0px;
+		margin: 0px;
+	}
+	.banner-batton {
+		padding-top: 20px;
+	}
+	.banner-batton a{
+		padding: 5px 10px;
+		font-size: 10px;
+	}
+	.features-section{
+		padding: 30px 0px;
+	}
+.features-title p{
+	text-align: center;
+}
+.features-title h1{
+	text-align: center;
+}
+
+.features-title .t-pic{
+
+width: 100%;
+
+text-align: center;
+}
+
+.features-title .m-pg{
+	padding: 0px;
+	margin: 0px;
+}
+.features-title .m-icon {
+	width: 100%;
+	padding: 0px;
+	margin: 0px;
+	font-size: 14px;
+	/*text-align: center;*/
+}
+
+/*.m-icon li{
+	font-size: 13px;
+	text-align: center;
+}
+.m-icon .secend{
+margin-right: 18px;
+}
+
+.m-icon .third{
+margin-right: 25px;
+}
+.m-icon .four{
+	margin-left: 82px;
+	
+}*/
+
+
+/*mobile-section-strate*/
+.mobile{
+	padding: 0px 0px;
+	text-align: center;
+
+}
+.mobile-title{
+	padding: 30px 0px;
+	margin: 0px;
+}
+.discrib p{
+	padding: 0px;
+	margin: 0px;
+}
+/*mobile-section-end*/
+/*testmonial-section*/
+.testimonial-section{
+	text-align: center;
+}
+/*testmonial-end*/
+/*testmonial-section-start*/
+.test-under-headding h2{
+	text-align: center;
+	padding-bottom: 20px;
+}
+.test-boton a{
+	padding: 5px 10px;
+	font-size: 14px;
+}
+/*testmonial-section-end*/
+
+
+
+/*pricing-item -secion-strate*/
+.pricing-item {
+	
+	margin-bottom: 40px;
+}
+/*pricing-item -secion-end*/
+
+/*contuct-iconon-section-strate*/
+.contuct-icon{
+	margin-bottom: 40px;
+}
+/*contuct-iconon-section-end*/
+/*contuct-section-start*/
+.contuct-section{
+	padding: 30px 0px;
+}
+/*contuct-section-end*/
+
+
+/*login-section-strate*/
+.login-inner{
+	width: 100%;
+	margin: 0px;
+	padding:30px 0px;
+
+}
+.inp{
+	width: 80%;
+	margin: 0 auto;
+}
+.inp input{
+	width: 100%;
+
+}
+.messege{
+	width: 80%;
+	margin: 0 auto;
+}
+.messege textarea{
+	margin-top: 25px;
+	border-radius: 5px;
+}
+.submit{
+	text-align: center;
+}
+/*login-section-end*/
+
+/*fotter-section-strate*/
+.footer-icon{
+	mar
+}
+/*fotter-section-end*/
+
+}
